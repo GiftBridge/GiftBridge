@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'GiftBridge',
   description: 'Grant wishes for $3',
